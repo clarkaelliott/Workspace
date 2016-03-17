@@ -105,3 +105,11 @@ res/
 .settings/
 .classpath
 .project
+_classpath
+_project
+.idea/
+.jpg
+.jpeg
+.png
+jpg
+jpeg
