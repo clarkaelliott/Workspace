@@ -8,7 +8,7 @@
   * Chapter 2.18 - (Print a Table)
   * 
   * Instructions:
-  * 	TODO
+  * 	Display a Table
   * 
   * Notes:
   * 	Cast Floating-Point Numbers into Integers
