@@ -4,37 +4,6 @@ import java.awt.EventQueue;
 
 import javax.swing.JFrame;
 
-/*+----------------------------------------------------------------------
-||
-||  Class [Application.java] 
-||
-||         Author:  [Clark Elliott]
-||
-||        Purpose:  [A description of why this class exists.  For what
-||                   reason was it written?  Which jobs does it perform?]
-||
-||  Inherits From:  [JPanel]
-||
-||     Interfaces:  [None]
-||
-|+-----------------------------------------------------------------------
-||
-||      Constants:  [Name all public class constants, and provide a very
-||                   brief (but useful!) description of each.]
-||
-|+-----------------------------------------------------------------------
-||
-||   Constructors:  [List the names and arguments of all defined
-||                   constructors.]
-||
-||  Class Methods:  [List the names, arguments, and return types of all
-||                   public class methods.]
-||
-||  Inst. Methods:  [List the names, arguments, and return types of all
-||                   public instance methods.]
-||
-++-----------------------------------------------------------------------*/
-
 public class Application extends JFrame {
 	
 	private static final int WINDOW_RESOLUTION_WIDTH = 1024;
