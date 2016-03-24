@@ -2,16 +2,16 @@
 /**
   * PrintTable2.java
   *  
-  * Author: Clark Elliott  |  Last Updated: Mar 23, 2016
+  * Author: Clark Elliott  |  Last Updated: Mar 24, 2016
   * 
   *
-  * Chapter TODO - (PrintTable2)
+  * Chapter 2.18 - (Print a Table)
   * 
   * Instructions:
   * 	TODO
   * 
   * Notes:
-  * 	TODO
+  * 	Cast Floating-Point Numbers into Integers
   */
 
 public class PrintTable2 {

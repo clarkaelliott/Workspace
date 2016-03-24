@@ -3,16 +3,19 @@ import java.util.Scanner;
 /**
   * PopulationProjection2.java
   *  
-  * Author: Clark Elliott  |  Last Updated: Mar 23, 2016
+  * Author: Clark Elliott  |  Last Updated: Mar 24, 2016
   * 
   *
-  * Chapter TODO - (PopulationProjection2)
+  * Chapter 2.11 - (Population Projection)
   * 
   * Instructions:
-  * 	TODO
+  * 	Revise Programming Exercise 1.11 to
+  * 	Prompt the User to Enter the Number of Years
+  * 	Display the Population after the Number of Years
   * 
   * Notes:
-  * 	TODO
+  * 	Use the Hint in Programming Exercise 1.11
+  * 	The Population Should be Cast into an Integer
   */
 
 public class PopulationProjection2 {
