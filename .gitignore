@@ -99,6 +99,8 @@ captures/
 # Keystore files
 *.jks
 
+ZetCode Tutorials/
+Unreal Engine/
 .metadata/
 .recommenders/
 res/
